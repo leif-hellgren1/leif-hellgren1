@@ -8,7 +8,6 @@ I trade futures and build small tools around it: alert routing, trade journaling
 - [trade-tracker](https://github.com/leif-hellgren1/trade-tracker): a calendar app for logging trades and tracking stats, with Google Sheets sync.
 - [industry-performance](https://github.com/leif-hellgren1/industry-performance): ranks industries and a watchlist by price performance against SPY.
 - [chartsnap](https://github.com/leif-hellgren1/chartsnap): one keypress to screenshot several TradingView charts into one image.
-- [trading-dashboard](https://github.com/leif-hellgren1/trading-dashboard): a performance snapshot page fed from a Google Sheet.
 
 **Other**
 
