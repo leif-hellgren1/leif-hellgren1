@@ -5,6 +5,7 @@ I trade futures and build small tools around it: alert routing, trade journaling
 **Trading**
 
 - [arc-alert-bot](https://github.com/leif-hellgren1/arc-alert-bot): routes TradingView alerts to Discord, sorted by signal strength.
+- [tradingview-scripts](https://github.com/leif-hellgren1/tradingview-scripts): Pine Script indicators for intraday futures trading, including the ARC alert engine.
 - [trade-tracker](https://github.com/leif-hellgren1/trade-tracker): a calendar app for logging trades and tracking stats, with Google Sheets sync.
 - [industry-performance](https://github.com/leif-hellgren1/industry-performance): ranks industries and a watchlist by price performance against SPY.
 - [chartsnap](https://github.com/leif-hellgren1/chartsnap): one keypress to screenshot several TradingView charts into one image.
