@@ -1,7 +1,5 @@
 ### Leif Hellgren
 
-I trade futures and build small tools around it: alert routing, trade journaling, screen capture, and performance tracking. Outside trading I build the occasional utility for a problem I run into.
-
 **Apps**
 
 <table>
