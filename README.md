@@ -15,7 +15,7 @@ I trade futures and build small tools around it: alert routing, trade journaling
 <table>
 <tr>
 <td width="150"><img src="screenshots/penguin.png" height="110"></td>
-<td><strong>Penguin</strong>: an iOS app I'm building solo, workout and macro tracking with an LLM coach built in.</td>
+<td><strong>Penguin</strong>: an iOS app I'm building. Workout and macro tracking with an LLM coach built in.</td>
 </tr>
 <tr>
 <td width="150"><img src="screenshots/moment.png" height="110"></td>
