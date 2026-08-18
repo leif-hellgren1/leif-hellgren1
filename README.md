@@ -12,7 +12,7 @@
 <td><strong>Moment</strong>: a search engine for finding a GIF or movie clip by describing it instead of guessing the tags.</td>
 </tr>
 <tr>
-<td width="150"></td>
+<td width="150"><div style="height:110px"></div></td>
 <td><strong><a href="https://github.com/leif-hellgren1/Subscriptio">Subscriptio</a></strong>: tracks your subscriptions and negotiates retention discounts automatically, without ever cancelling.</td>
 </tr>
 </table>
