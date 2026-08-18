@@ -15,14 +15,14 @@ I trade futures and build small tools around it: alert routing, trade journaling
 <table>
 <tr>
 <td width="150"><img src="screenshots/penguin.png" height="110"></td>
-<td><strong>Penguin</strong> — an iOS app I'm solo developing: an integrated LLM agent for fitness and macro dieting.</td>
+<td><strong>Penguin</strong>: an iOS app I'm building solo, workout and macro tracking with an LLM coach built in.</td>
 </tr>
 <tr>
 <td width="150"><img src="screenshots/moment.png" height="110"></td>
-<td><strong>Moment</strong> — an AI-native search engine for finding the exact GIF, movie moment, or reaction you're thinking of, described however you remember it.</td>
+<td><strong>Moment</strong>: a search engine for finding a GIF or movie clip by describing it instead of guessing the tags.</td>
 </tr>
 </table>
 
-- [Subscriptio](https://github.com/leif-hellgren1/Subscriptio): tracks your subscriptions and negotiates retention discounts automatically, without ever cancelling.
+Both are private repos, still being built.
 
-<sub>Penguin and Moment are private repos — in active development, details kept close for now.</sub>
+- [Subscriptio](https://github.com/leif-hellgren1/Subscriptio): tracks your subscriptions and negotiates retention discounts automatically, without ever cancelling.
