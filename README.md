@@ -12,5 +12,17 @@ I trade futures and build small tools around it: alert routing, trade journaling
 
 **Other**
 
-- **Penguin**: an iOS app I'm solo developing — an integrated LLM agent for fitness and macro dieting.
+<table>
+<tr>
+<td width="150"><img src="screenshots/penguin.png" height="110"></td>
+<td><strong>Penguin</strong> — an iOS app I'm solo developing: an integrated LLM agent for fitness and macro dieting.</td>
+</tr>
+<tr>
+<td width="150"><img src="screenshots/moment.png" height="110"></td>
+<td><strong>Moment</strong> — an AI-native search engine for finding the exact GIF, movie moment, or reaction you're thinking of, described however you remember it.</td>
+</tr>
+</table>
+
 - [Subscriptio](https://github.com/leif-hellgren1/Subscriptio): tracks your subscriptions and negotiates retention discounts automatically, without ever cancelling.
+
+<sub>Penguin and Moment are private repos — in active development, details kept close for now.</sub>
